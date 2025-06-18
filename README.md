@@ -1,4 +1,4 @@
-# Assignment-P-2025-spring-
+# Assignment-P-2025-spring
 cheatsheet+课程资料和情报
 
 # 数算B上机 Cheatsheet
